@@ -30,7 +30,7 @@ a {
 }
 
 .wallpaper {
-    background-image: url('../images/austria.jpg');
+    background-image: url('../images/mexico.jpg');
     background-position: center;
     background-size: cover;
     opacity: 0.2;
@@ -99,9 +99,9 @@ a {
     padding: 1.25em 2em;
     text-shadow: none;
     transition-property: box-shadow, transform;
-    user-select: none; /*Esto es para que el usuario  no pueda seleccionar el contenido del boton*/
+    user-select: none; /*the text content cant'be selected*/
     vertical-align: top;
-    white-space: nowrap; /*Esto nos asegura que el texto nunca tome dos lineas, sino que se conserve siempre en una*/
+    white-space: nowrap; /*to make sure the text never is displayed on two lines*/
     will-change: box-shadow, transform;
 }
 
