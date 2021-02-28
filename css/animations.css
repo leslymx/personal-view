@@ -99,7 +99,7 @@
 }
 
 .wallpaper {
-    animation-name: zoomOut;
+    animation-delay: 1s;
     animation-timing-function: ease-out;
 }
 
@@ -158,4 +158,4 @@
 .social li:nth-child(5) {
     animation-delay: 1.2s;
 }
-/*if u have more than 5 icons or items, just increment by 0.1s each time*/
+/*Note: if u have more than 5 icons or items, just increment by 0.1s each time*/

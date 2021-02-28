@@ -175,6 +175,7 @@ a {
     opacity: 1;
     transform: scale(1.1);
 }
+
 /*Responsiveness*/
 
 @media screen and (max-width: 799px) {
